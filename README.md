@@ -3,7 +3,6 @@ gamepad control over Elektron Syntakt via Max/MSP
 
 ![screenshot](https://github.com/Lluiser/Joytakt/blob/main/screenshot.jpg?raw=true)
 
-/////////
 
 setup:  
 tested on Mac but should work on Windows too
