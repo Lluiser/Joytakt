@@ -1,7 +1,7 @@
 # Joytakt
 gamepad control over Elektron Syntakt via Max/MSP
 
-![screenshot](https://github.com/Lluiser/Joytakt/blob/main/screenshot.jp g?raw=true)
+![screenshot](https://github.com/Lluiser/Joytakt/blob/main/screenshot.jpeg?raw=true)
 
 
 setup:  
