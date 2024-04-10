@@ -5,12 +5,12 @@ gamepad control over Elektron Syntakt via Max/MSP
 
 
 setup:  
-tested on Mac but should work on Windows too
-requires a Syntakt connected via USB or midi in and out, an xbox series X controller and max/msp. 
-ensure ST tracks are set to midi channels 1-13
-ensure ST can send and receive midi CCs over the right port
-turn on ST and gamepad. open Joytakt.maxpat
-click the 'midi setup' button, then double click the midiin and midiout objects and ensure they are set to the ST midi channels.
+tested on Mac but should work on Windows too  
+requires a Syntakt connected via USB or midi in and out, an xbox series X controller and max/msp.   
+ensure ST tracks are set to midi channels 1-13  
+ensure ST can send and receive midi CCs over the right port  
+turn on ST and gamepad. open Joytakt.maxpat  
+click the 'midi setup' button, then double click the midiin and midiout objects and ensure they are set to the ST midi channels.  
 
 /////////
 
