@@ -24,7 +24,7 @@ The macros are mapped as follows: left stick (pitch bend bipolar, up and down) r
 press [X] to latch all macros at their current location. press [A] to unlatch. they won't bounce back until you move each joystick/trigger so this can be used to freeze macros independently while the others are still modified.
 
 mutes:  
-[LB] and [RB] each mute 4 different tracks while held - FX trac is excluded  
+[LB] and [RB] each mute 4 different tracks while held - FX track is excluded  
 hold then press [Y] to latch, and press [Y] again to unlatch. Both groups can be latched independently.  
 gamepad mutes will ignore any tracks that have been manually muted on the ST.  
 press [☰] (start) to re-shuffle the mutes, giving you 4 new channels per button.  
